@@ -16,7 +16,7 @@ Design a REST API endpoint that provides auto-complete suggestions for large cit
 
 ## "The rules"
 
-- *Please Use Node.JS to build this REST API .* It's OK to try something new (tell us if you do), but feel free to use something you're comfortable with. We don't care if you use something we don't; the goal here is not to validate your knowledge of a particular technology.
+- *Please Use Node.JS to build this REST API. The goal here is not to validate your knowledge of a particular technology, rather we are primarily assesing your implementation.
 - End result should be deployed on a public Cloud (Heroku, AWS etc. all have free tiers you can use).
 
 ## Advice
