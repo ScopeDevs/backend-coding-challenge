@@ -1,11 +1,11 @@
 # Coveo Backend Coding Challenge
-(inspired by https://github.com/busbud/coding-challenge-backend-c)
+(inspired by https://github.com/coveo/backend-coding-challenge)
 
 ## Requirements
 
 Design a REST API endpoint that provides auto-complete suggestions for large cities.
 
-- The endpoint is exposed at `/suggestions`
+- The endpoint is exposed and public at `/suggestions`
 - The partial (or complete) search term is passed as a querystring parameter `q`
 - The caller's location can optionally be supplied via querystring parameters `latitude` and `longitude` to help improve relative scores
 - The endpoint returns a JSON response with an array of scored suggested matches
